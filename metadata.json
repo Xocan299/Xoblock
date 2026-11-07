@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Studio 2008 & Classic Noob Simulator",
+  "description": "Authentic classic Roblox Studio 2008 recreation with full UI, interactive toolbars, Explorer, Properties, 3D stud building, and playable Noob character with classic physics and sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
